@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Next.js build
+.next/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
