@@ -41,7 +41,7 @@ export default function JobSystemHistory() {
     <div className="min-h-screen bg-gradient-to-br from-indigo-200 to-indigo-200 p-6">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl font-bold text-gray-800 mb-2 items-center">
-          📊 Import History Dashboard
+          📊 Import History Dashboard...
         </h1>
         <p className="text-gray-500 mb-6">
           Track all job imports from external feeds

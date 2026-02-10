@@ -1,16 +1,17 @@
 # Node modules
-node_modules/
+client/node_modules/
+server/node_modules/
 
-# Next.js build files
-.next/
-out/
+# Build output
+client/.next/
+server/dist/
+
+# Logs
+*.log
 
 # Env files
-.env
+*.env
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Log files
-*.log
