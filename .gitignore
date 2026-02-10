@@ -1,17 +1,17 @@
 # Node modules
-client/node_modules/
-server/node_modules/
+node_modules/
 
 # Build output
-client/.next/
-server/dist/
+.next/
+dist/
+build/
 
 # Logs
 *.log
 
-# Env files
-*.env
+# Environment variables
+.env
 
-# OS files
+# Mac or Windows hidden files
 .DS_Store
 Thumbs.db
