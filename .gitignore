@@ -1,17 +1,1 @@
-# Node modules
-node_modules/
-
-# Build output
-.next/
-dist/
-build/
-
-# Logs
-*.log
-
-# Environment variables
-.env
-
-# Mac or Windows hidden files
-.DS_Store
-Thumbs.db
+https://github.com/Neha-patankar/job-import-system.git
